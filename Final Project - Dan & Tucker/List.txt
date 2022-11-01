@@ -1,0 +1,46 @@
+Anchovies, 2.32
+Artichoke Hearts, 3
+Bacon, 2.99
+Balsamic Vinaigrette, 3.09
+Banana Pepper, 1.32
+BBQ, 1.99
+Black Olives, 0.99
+Bone In Wings, 2.54
+Boneless Wings, 1.42
+Caesar, 0.53
+Calzone, 3.67
+Canned Pizza Sauce, 1.44
+Canned Tomato Puree, 3.81
+Chicken, 9.32
+Clam, 6.11
+Croutons, 0.22
+Flour, 0.76
+Green Bellpepper, 0.11
+Green Olives, 0.43
+Honey, 1.88
+Jalapeno, 2.33
+Long Rolls, 4.11
+Meatball, 4.55
+Mozzarella, 1.29
+Mushrooms, 1.29
+Oil, 4.22
+Panko, 3.10
+Parmesan, 4.22
+Pepperoni, 3.22
+Pineapple, 2.99
+14 inch Pizza, 4.99
+Thick - 16 inch Pizza, 5.99
+Thin - 16 inch Pizza , 5.99
+18 inch Pizza, 6.99
+24 inch Pizza, 7.99
+Provolone, 3.99
+Ranch, 3.99
+Red Onions, 4.22
+Roasted Red peppers, 11.99
+Salami, 2.99
+Salt, 2.99
+Sausages, 4.99
+Short Rolls, 4.43
+Spicy Buffalo, 0.92
+Stromboli, 5.12
+Tomatoes, 0.99
