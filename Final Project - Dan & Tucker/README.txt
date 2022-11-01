@@ -8,6 +8,3 @@ This GUI was made with help with a GUI-Builder
 
 This program will calculate the cost of wasted ingredients as long as the user inputs the amount put in
 and chooses what was added in.
-
-Happy block break!
-
